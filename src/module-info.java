@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author Omer
- *
- */
-module jmsTutorial {
-}
